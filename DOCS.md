@@ -1,3 +1,8 @@
+1.  [Schematic](#orgd55b9ef)
+2.  [Controls](#orgb5364f6)
+
+
+<a id="orgd55b9ef"></a>
 
 # Schematic
 
@@ -5,6 +10,8 @@
 
 ![img](https://denniscm.com/static/logic-led-1.png)
 
+
+<a id="orgb5364f6"></a>
 
 # Controls
 
